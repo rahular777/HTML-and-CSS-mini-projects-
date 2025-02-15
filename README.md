@@ -45,7 +45,7 @@ npm start
 **Screenshots and Video**
 Here are some screenshots and a video to help you get started:
 
-![image](https://github.com/user-attachments/assets/a4fc8eb1-90bb-4e14-977c-cf2e0a8954c0)
+https://raw.githubusercontent.com/rahular777/HTML-and-CSS-mini-projects-/f02a6b8a818be92fb0b55209fe630b914b3b50a5/images/1.png
 
 
 
