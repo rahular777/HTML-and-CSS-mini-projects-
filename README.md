@@ -50,5 +50,5 @@ Here are some screenshots and a video to help you get started:
 [Screenshot 2:](/images/2.png)
 
 
-Video: [short.mp4]
+[video:](/video/short.mp4)
  
