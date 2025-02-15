@@ -45,10 +45,10 @@ npm start
 **Screenshots and Video**
 Here are some screenshots and a video to help you get started:
 
-Screenshot 1: [/images/1.png]
+Screenshot 1: [images\1.png]
 
 
-Screenshot 2: [/images/2.png]
+Screenshot 2: [images\2.png]
 
 
 Video: [short.mp4]
