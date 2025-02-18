@@ -9,6 +9,8 @@ Welcome to the Drag and Drop Tier List App! This app allows users to create cust
 - **Customizable Tiers:** Add, remove, or rename tiers as needed.
 - **Save and Share:** Save your tier lists and share them with friends.
 
+
+
 ## Installation
 
 To install and run the app locally, follow these steps:
@@ -45,7 +47,7 @@ npm start
 **Screenshots and Video**
 Here are some screenshots and a video to help you get started:
 
-[Screenshot 1:] (/images/1.png)
+[Screenshot 1:] (https://raw.githubusercontent.com/rahular777/HTML-and-CSS-mini-projects-/f02a6b8a818be92fb0b55209fe630b914b3b50a5/images/1.png)
 
 [Screenshot 2:](/images/2.png)
 
